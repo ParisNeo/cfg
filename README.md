@@ -164,6 +164,12 @@ int main(int argc, char ** argv)
     // Now our parameters are all loaded successfully, time to play
 }
 ```
+# Information
+This is one of multiple libraries I have developed to simplify some tasks we do with C on linux. The objective is for it to be open source, eazy to use and compatible with both c and cpp. The build system is make and is compatible with gcc building system. It is very eazy to use this with cmake or other build systems. All these libraries have been tested on raspberry pi with raspbian. They help starting a new application that requires configuration, communication with arduino tools and spreading information between multiple services on the raspberry pi.
+
+The licence is MIT, so you can use this code in your projects without worrying about licence contamination that could happen when using GPL licences. So you still can use it for free in commercial applications.
+
+Tests and bugfixes are welcome. Just clone it, repare it and send a pull request. I want to keep this code as clean and simple as possible so please avoid feature creaping.
 
 # Useful links
 Check out my [uart library](https://github.com/ParisNeo/uart) built in the same spirit as this library.
