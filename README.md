@@ -167,8 +167,6 @@ int main(int argc, char ** argv)
 
 # Useful links
 Check out my [uart library](https://github.com/ParisNeo/uart) built in the same spirit as this library.
-
-
-
+Check out my [udp library](https://github.com/ParisNeo/udp) built in the same spirit as this library.
 
 
