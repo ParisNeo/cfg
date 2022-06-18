@@ -13,6 +13,9 @@
  */
 #ifndef __cfg__
 #define __cfg__
+
+#include<stdbool.h>
+
 // Defines -----------------------------------------------
 #ifndef MAX_KEY_SIZE
 #define MAX_KEY_SIZE 256
