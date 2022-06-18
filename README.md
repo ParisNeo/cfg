@@ -103,6 +103,7 @@ Now, you are ready and your parameters are loaded
 # Complete example
 
 ```c
+#include<stdio.h>
 #include<cfg.h>
 
 // We define few parameters to fill
